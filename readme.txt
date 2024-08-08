@@ -1,0 +1,1 @@
+Para ver la actividad ingresar desde la siguiente URL: https://cesarr0d28.github.io/ejemplo_vista_controlador/
